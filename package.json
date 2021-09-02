@@ -1,0 +1,24 @@
+{
+  "name": "sockets-for-cordova",
+  "version": "1.1.0",
+  "cordova": {
+    "id": "sockets-for-cordova",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "description": "This Cordova plugin provides a JavaScript API which allows direct communication with a server via TCP. Supports these platforms: iOS, Android.",
+  "repository": "https://github.com/chill117/sockets-for-cordova.git",
+  "issue": "https://github.com/chill117/sockets-for-cordova/issues",
+  "keywords": [
+    "sockets",
+    "tcp",
+    "ecosystem:cordova",
+    "cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Blocshop",
+  "license": "BSD"
+}
